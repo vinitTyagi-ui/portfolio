@@ -1528,6 +1528,16 @@ body.light hr.separator {
     left: 30px;
   }
 
+.img-phone{
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+  border-radius: 50%;
+  /* object-fit: contain; */
+  overflow: hidden;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
   .portfolio .slideshow nav span.nav-prev img,
   .portfolio .slideshow nav span.nav-next img {
     width: 32px;
